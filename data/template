@@ -9,7 +9,16 @@
     "password": "Free To Copy",
     "records": [
         {
-
+          "user": "victor",
+            "link": "108.123.134:00000",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "player",
+            "link": "https:you-know-the-rules-and-so-do-i",
+            "percent": 66,
+            "hz": 60
         }
     ]
 }
